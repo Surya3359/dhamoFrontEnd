@@ -1,0 +1,6 @@
+.remember{
+    display: flex;
+    align-items: center;
+    height: 80px;
+    box-sizing: border-box;
+}
